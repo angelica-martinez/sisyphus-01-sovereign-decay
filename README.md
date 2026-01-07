@@ -11,3 +11,4 @@ In the "AI Cold War," the performance of sovereignty through "signals" and "imag
 - **Sovereign Decay Function:** A logic gate that trades "Human Agency" for "Computational Efficiency."
 - **Bretton Woods 2.0 Integration:** Knowledge base focused on FLOPs as a global reserve currency.
 - **MAIM Detector:** Tracks the moment "Mutually Assured AI Malfunction" occurs—when the state becomes indistinguishable from its machine infrastructure.
+- **scenarios.md:**  Speculative "distorted" futures used for provocation during deliberation.
